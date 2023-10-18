@@ -1,7 +1,7 @@
 # RPA challenge : Input Forms
 
 <p align="center">
-  <img src="https://www.wattmann.co.jp/business/images/logo_hobbysearch.png" />
+  <img src="/result.png" />
 </p>
 
 #### Video Demo: https://youtu.be/8lWi6BM7Tmk
