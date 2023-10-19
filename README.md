@@ -4,7 +4,7 @@
   <img src="/result.png" />
 </p>
 
-#### Video Demo: https://youtu.be/8lWi6BM7Tmk
+#### Video Demo: https://youtu.be/Go3lxeq0oiE
 
 ## Instruction
 1. The goal of this challenge is to create a workflow that will input data from a spreadsheet into the form fields on the screen.
